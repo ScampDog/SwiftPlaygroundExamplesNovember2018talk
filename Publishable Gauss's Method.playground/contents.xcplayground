@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Pallas'/>
+        <page name='Comet Rebek-Jewel'/>
+        <page name='Interactive Gauss’s Method'/>
+        <page name='Axis Limit algorithms'/>
+        <page name='Sun&apos;s Motion'/>
+        <page name='AxisDataTests'/>
+    </pages>
+</playground>
